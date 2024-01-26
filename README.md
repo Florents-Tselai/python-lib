@@ -14,15 +14,15 @@ Regular `pip` will work OK too.
 
 ## Usage
 
-Run `cookiecutter gh:simonw/python-lib` and then answer the prompts. Here's an example run:
+Run `cookiecutter gh:Florents-Tselai/python-lib` and then answer the prompts. Here's an example run:
 
-    $ cookiecutter gh:simonw/python-lib
+    $ cookiecutter gh:Florents-Tselai/python-lib
     lib_name []: python lib template demo
-    description []: Demonstrating https://github.com/simonw/python-lib
+    description []: Demonstrating https://github.com/Florents-Tselai/python-lib
     hyphenated [python-lib-template-demo]: 
     underscored [python_lib_template_demo]: 
-    github_username []: simonw
-    author_name []: Simon Willison
+    github_username []: Florents-Tselai
+    author_name []: Florents Tselai
 
 I strongly recommend accepting the suggested value for "hyphenated" and "underscored" by hitting enter on those prompts.
 
