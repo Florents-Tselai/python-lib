@@ -27,7 +27,7 @@ setup(
         "CI": "https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.hyphenated }}/actions",
         "Changelog": "https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.hyphenated }}/releases",
     },{% endif %}
-    license="Apache License, Version 2.0",
+    license="MIT License",
     version=VERSION,
     packages=["{{ cookiecutter.underscored }}"],
     install_requires=[ "click", "setuptools", "pip"],
